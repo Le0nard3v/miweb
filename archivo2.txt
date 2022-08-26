@@ -7,7 +7,6 @@ Vendido
 Dado de Baja     5
 
 
-
 CodStatus
 0	Abierto
 1	Abierto
