@@ -1,0 +1,16 @@
+Archivo 2
+
+Abierto
+Suspendida       
+Cerrado          3
+Vendido
+Dado de Baja     5
+
+
+
+CodStatus
+0	Abierto
+1	Abierto
+3   Cerrado
+4   Abierto
+5   Dado de Baja
