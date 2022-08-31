@@ -4,3 +4,7 @@ ls -a 		      Muestra todos los archivos incluso los ocultos
 rm archivo2.txt   Elimina archivo2
 mv archivo1.txt archivo.txt  Cambia nombre de archivo
 git status -s     Status resumido
+git branch    Nos indica en que rama estamos trabajando
+git checkout main  Cambia de rama
+cat archivo2.txt  ubica el archivo en una rama
+git merge ramab  Trae los cambios hechos en ramab a master
