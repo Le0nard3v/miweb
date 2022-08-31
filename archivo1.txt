@@ -2,3 +2,4 @@ Comandos git
 git init   	Inicializar directorio en GIT
 ls -a 		Muestra todos los archivos incluso los ocultos
 rm archivo2.txt  Elimina archivo2
+mv archivo1.txt archivo.txt  Cambia nombre de archivo
