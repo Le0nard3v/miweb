@@ -1,0 +1,3 @@
+Comandos git
+git init   	Inicializar directorio en GIT
+ls -a 		Muestra todos los archivos incluso los ocultos
