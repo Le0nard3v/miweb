@@ -4,3 +4,4 @@ git diff
 git diff --staged  Nos muestra todos los cambios que estén en staged
 git log --oneline
 git commit -m "Adicionando online"  agrega un commit
+git checkout -b "ramab"   Comando para agreagar ramas
