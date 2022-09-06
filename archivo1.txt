@@ -1,1 +1,8 @@
 archivo1.txt
+
+ENUMITEMVALUE	ENUMITEMNAME
+0	            NoAcquisition
+1	            Open
+3	            Closed
+4	            Sold
+5	            Scrapped

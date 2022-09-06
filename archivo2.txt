@@ -15,3 +15,17 @@ CodStatus
 5   Dado de Baja
 
 6   prueba
+
+
+/***************************************************************************************/
+
+Mockup:  F005 PMO-FO-13 Análisis de Reportes Activos Fijos - Patrimonio Change Request.xls
+USP: USP_TransformationFact_AssetFixedTrans
+INSERT INTO Finance.Fact_AssetFixedTrans
+
+Falta:  Archivo Power Report Builder
+
+BI_Finanzas_Operativo_Vertical_Gecolsa
+
+Activos Fijos - Patrimonio [Compañía]
+
