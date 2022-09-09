@@ -29,3 +29,5 @@ BI_Finanzas_Operativo_Vertical_Gecolsa
 
 Activos Fijos - Patrimonio [Compañía]
 
+Job de Ejecución:  RPT_FNC_FixedAssets
+
