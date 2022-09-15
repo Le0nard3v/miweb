@@ -25,9 +25,9 @@ INSERT INTO Finance.Fact_AssetFixedTrans
 
 Falta:  Archivo Power Report Builder
 
+/* Parámetros Bi Producción */
 BI_Finanzas_Operativo_Vertical_Gecolsa
 
 Activos Fijos - Patrimonio [Compañía]
 
 Job de Ejecución:  RPT_FNC_FixedAssets
-
